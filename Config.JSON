@@ -1,0 +1,11 @@
+[
+    {
+        "Modulo": "Youtube",
+        "Configuracion": [
+            {
+                "Nombre": "Resolution",
+                "Valor": "720p"
+            }
+        ]
+    }
+]
