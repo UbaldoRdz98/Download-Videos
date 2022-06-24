@@ -1,5 +1,6 @@
 !!!!!!!!!!!!!!!!!Importante!!!!!!!!!!!!!!!!!
     Instalar las siguientes extensiones para que funcione:
         pytube:
+            Documentación: https://pytube.io/en/latest/index.html
             py -m pip install pytube 
             python -m pip install pytube 
